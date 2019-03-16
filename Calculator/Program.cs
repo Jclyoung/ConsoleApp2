@@ -34,21 +34,41 @@ namespace Calculator
             string operation = Console.ReadLine();
 
             double answer = 0;
-            double add = +;
 
-            if (operation == +)
+            if (operation == "add")
             {
                 answer = (firstNumber + secondNumber);
                 Console.WriteLine(firstNumber + " + " + secondNumber + " = " + answer);
             }
-           
+            else if (operation == "subtract")
+            {
+                answer = (firstNumber - secondNumber);
+                Console.WriteLine(firstNumber + " - " + secondNumber + " = " + answer);
+            }
+            else if (operation == "divide")
+            {
+                answer = (firstNumber / secondNumber);
+                Console.WriteLine(firstNumber + " / " + secondNumber + " = " + answer);
+            }
+            if (operation == "multiply")
+            {
+                answer = (firstNumber * secondNumber);
+                Console.WriteLine(firstNumber + " * " + secondNumber + " = " + answer);
+            }           
 
-
+            
                 // and whether they want to add, subtract, multiply or divide them. 
 
-                //Console.WriteLine($"Total = {result}");
+                Console.WriteLine($"Total = {answer}");
 
                 Console.ReadLine();
+
+            
+
+
+
+
+
         }
     }
 }

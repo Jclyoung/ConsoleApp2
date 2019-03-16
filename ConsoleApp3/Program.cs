@@ -36,7 +36,7 @@ namespace ConsoleApp3
                 }
 
                 double rectangleArea = (length * width);
-                Console.WriteLine($"The total area of the rectangle is {rectangleArea}.");
+                Console.WriteLine($"The total area of the rectangle is {rectangleArea}");
                 
                 // Output - The area of the rectangle is (computed value)
 

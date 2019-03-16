@@ -24,7 +24,7 @@ namespace Mileage
 
             float milesPerGallon = (mileage / gasConsumed);
 
-            Console.WriteLine($"You are currently getting {milesPerGallon} miles per gallon.");
+            Console.WriteLine($"Your miles per gallon is {milesPerGallon}");
             
             // Get input from the user and save it to a second variable.
 

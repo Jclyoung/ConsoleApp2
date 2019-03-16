@@ -25,11 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Turtles", "Turtles\Turtles.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BottlesOfBeerOnTheWall", "BottlesOfBeerOnTheWall\BottlesOfBeerOnTheWall.csproj", "{E6FA2146-409E-4FA7-906F-006D65B6B30B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp8", "ConsoleApp8\ConsoleApp8.csproj", "{7504E561-61DD-43B7-89AB-B90C901D022D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even Intergers", "ConsoleApp8\Even Intergers.csproj", "{7504E561-61DD-43B7-89AB-B90C901D022D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseGrader", "CourseGrader\CourseGrader.csproj", "{1E963901-C723-4952-8A10-7F3F140E1673}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseGrader", "CourseGrader\CourseGrader.csproj", "{1E963901-C723-4952-8A10-7F3F140E1673}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaunchScrabble", "LaunchScrabble\LaunchScrabble.csproj", "{7386352A-BED4-4BE0-AABE-F38E08C2C7FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaunchScrabble", "LaunchScrabble\LaunchScrabble.csproj", "{7386352A-BED4-4BE0-AABE-F38E08C2C7FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

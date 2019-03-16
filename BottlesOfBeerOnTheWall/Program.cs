@@ -16,19 +16,11 @@ namespace BottlesOfBeerOnTheWall
                 i--; Console.WriteLine(" Take one done and pass it around " + i + " bottles of beer on the wall.");
 
                 i++; if (i == 1)
-
                 {   
-                    
-
                     Console.ReadLine();
                     break;
-
                 }
-            
-                 
-           }
-
-            
+            }
         }
     }
 }
